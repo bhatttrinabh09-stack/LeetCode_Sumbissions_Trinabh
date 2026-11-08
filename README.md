@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/0680-valid-palindrome-ii) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
