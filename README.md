@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -30,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bhatttrinabh09-stack/LeetCode_Sumbissions_Trinabh/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
